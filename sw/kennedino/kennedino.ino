@@ -1,4 +1,6 @@
-
+// ----------------------------------------------------------------
+// Kennedino, l'Arduino del Kennedy di Pordenone
+// ----------------------------------------------------------------
 // timer interrupt library
 #include <FlexiTimer2.h>
 #define TIMEBASE_MS 10        // timeBase called every 10 ms
